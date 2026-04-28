@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aurel Adestita Salsabila_modul8_103082400041")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73c4e27f5869b0774b9d13a2fde5531c3a8a52e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aurel Adestita Salsabila_modul8_103082400041")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aurel Adestita Salsabila_modul8_103082400041")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
